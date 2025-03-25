@@ -8,7 +8,7 @@ This is a demo portfolio built with React, Vite, and modern web technologies to 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment] (#deployment)
+- [Deployment](#deployment)
 - [Contributor](#contributor)
 - [Tests](#tests)
 - [Questions](#questions)
