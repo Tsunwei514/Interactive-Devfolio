@@ -4,7 +4,7 @@ import App from './App.jsx';
 import Error from './pages/Error.jsx';
 import About from './pages/About.jsx';
 import Portfolio from './pages/Portfolio.jsx';
-// import Contact from './pages/Contact.jsx';
+import Contact from './pages/Contact.jsx';
 // import Resume from './pages/Resume.jsx';
 
 const router = createBrowserRouter([
@@ -21,10 +21,10 @@ const router = createBrowserRouter([
         path: '/portfolio',
         element: <Portfolio />,
       },
-      // {
-      //   path: '/contact',
-      //   element: <Contact />,
-      // },
+      {
+        path: '/contact',
+        element: <Contact />,
+      },
       // {
       //   path: '/resume',
       //   element: <Resume />,
