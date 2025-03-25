@@ -8,6 +8,7 @@ This is a demo portfolio built with React, Vite, and modern web technologies to 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment] (#deployment)
 - [Contributor](#contributor)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -19,6 +20,9 @@ use command "npm i" to install the dependencies for the project before running t
 ## Usage
 
 use command "npm run dev" to run the development server. Visit http://localhost:3000 in your browser to view the project.
+
+## Deployment
+The project is deployed using Netlify. https://netlify-deployment-portfoliodemo.netlify.app/
 
 ## Contributor
 
