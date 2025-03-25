@@ -6,7 +6,7 @@ import About from './pages/About.jsx';
 import Portfolio from './pages/Portfolio.jsx';
 import Contact from './pages/Contact.jsx';
 import Resume from './pages/Resume.jsx';
-import './index.css';  
+import './Index.css';  
 
 const router = createBrowserRouter([
   {
