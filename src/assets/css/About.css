@@ -3,6 +3,8 @@
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4; 
 }
 
 .about-content {
@@ -19,16 +21,16 @@
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #61dafb;
+    border: 3px solid #4e7a67; 
 }
 
 h1 {
     font-size: 2rem;
-    color: #333;
+    color: #4e7a67; 
 }
 
 p {
     font-size: 1.1rem;
-    color: #555;
+    color: #555; 
     line-height: 1.6;
 }

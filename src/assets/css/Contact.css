@@ -13,26 +13,19 @@ form {
 
 label {
     font-weight: bold;
+    color: #333;
 }
 
 input, textarea {
     width: 100%;
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid #4e7a67; 
     border-radius: 5px;
+    transition: border-color 0.3s ease;
 }
 
-button {
-    background-color: #61dafb;
-    color: white;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #4fa3f7;
+input:focus, textarea:focus {
+    border-color: #8a5a44; 
 }
 
 .error {
